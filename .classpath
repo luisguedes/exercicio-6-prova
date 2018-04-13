@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CadBanco/src/main/java"/>
+	<classpathentry kind="src" path="CadBanco/src/test/java"/>
+	<classpathentry kind="src" path="CadServer/src"/>
+	<classpathentry kind="src" path="CadUtil/src"/>
+	<classpathentry kind="src" path="ClienteTeste/src"/>
+	<classpathentry kind="output" path="CadBanco/target/classes"/>
+</classpath>
